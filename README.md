@@ -16,9 +16,9 @@ https://docs.google.com/document/d/1KOoAifVzkw8ctoX0IWQtM2AP1NSAnWPzHoKUbFCgb0U/
 ✅-[Вызов функции](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=_2N4qD3N8Sau)\
 ✅-[Принципы ООП](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=-Dvg4ypz1--G)\
 ✅-[5 методов](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=muBgXqh1AUyW)\
-✅-[Анализ данных](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=vNVzL3pL2OKf)
-❌-Сводная таблица с формулами
-❌-3 способа загрузки файлов
+✅-[Анализ данных](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=vNVzL3pL2OKf)\
+❌-Сводная таблица с формулами\
+❌-3 способа загрузки файлов\
 ❌-код по созданию сводной таблицы
 ## РаБоты по Bash
 [Практические работы 1 и 2](https://docs.google.com/document/d/1Za7FgrRFmzjYjTig9oieuzW3WGProGL77IISaij5tfM/edit?usp=drive_link)
