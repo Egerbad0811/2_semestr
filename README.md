@@ -25,4 +25,4 @@ https://docs.google.com/document/d/1KOoAifVzkw8ctoX0IWQtM2AP1NSAnWPzHoKUbFCgb0U/
 ## Сертификаты
 [Сертификаты](https://drive.google.com/drive/folders/1MsF_cBy_ZiQoyA7MOsoxOJ6beGioIj4X?usp=sharing)
 ## Долги
-[Работа с Gnuplot](https://docs.google.com/document/d/1yb2FNNuT0nP5gbIvS_y90SHeJM5G5CE1pjxi0_HSsAs/edit?usp=sharing)\
+[Работа с Gnuplot](https://docs.google.com/document/d/1yb2FNNuT0nP5gbIvS_y90SHeJM5G5CE1pjxi0_HSsAs/edit?usp=sharing)
