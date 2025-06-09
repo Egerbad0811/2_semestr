@@ -20,7 +20,7 @@ https://docs.google.com/document/d/1KOoAifVzkw8ctoX0IWQtM2AP1NSAnWPzHoKUbFCgb0U/
 ❌-Сводная таблица с формулами\
 ❌-3 способа загрузки файлов\
 ❌-код по созданию сводной таблицы
-## РаБоты по Bash
+## Работы по Bash
 [Практические работы 1 и 2](https://docs.google.com/document/d/1Za7FgrRFmzjYjTig9oieuzW3WGProGL77IISaij5tfM/edit?usp=drive_link)
 ## Сертификаты
 [Сертификаты](https://drive.google.com/drive/folders/1MsF_cBy_ZiQoyA7MOsoxOJ6beGioIj4X?usp=sharing)
