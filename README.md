@@ -17,7 +17,7 @@
 ❌-код по созданию сводной таблицы
 ## Работы по Bash
 [Практические работы 1 и 2](https://docs.google.com/document/d/1Za7FgrRFmzjYjTig9oieuzW3WGProGL77IISaij5tfM/edit?usp=drive_link)\
-[Работа с Gnuplot](https://docs.google.com/document/d/1yb2FNNuT0nP5gbIvS_y90SHeJM5G5CE1pjxi0_HSsAs/edit?usp=sharing)\
+[Контрольная по Gnuplot](https://docs.google.com/document/d/1yb2FNNuT0nP5gbIvS_y90SHeJM5G5CE1pjxi0_HSsAs/edit?usp=sharing)\
 [Взлом пароля](https://docs.google.com/document/d/1Bzksl5jQCqQ6PWzdUp34dJeisytzbPkrMYnvOrSEhUk/edit?usp=sharing)\
 [ДЗ Баш](https://docs.google.com/document/d/1FFgD58qbblQe0_zAGYb7kA87gxTQLl94uLK6y04wXsM/edit?usp=sharing)\
 [Графики по GNUplot](https://docs.google.com/document/d/1iw6rP5vOccdmkQ3P-dBVNL5UW1Zfp-rdrTSU16398XA/edit?usp=sharing)
