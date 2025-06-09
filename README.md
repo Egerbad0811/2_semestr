@@ -8,7 +8,7 @@
 ✅-[Пароль](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=1ZbHRYIzrxOq)\
 ✅-[Задание и блоксхема](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=WAEO1GROr03r&line=2&uniqifier=1)\
 ✅-[Регулярные выражения](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=xBG8Yv6knPCA)\
-✅-[Код пароля в классе](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=s0hqflzgyFWI&line=3&uniqifier=1)\
+✅-[Создание класса](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=s0hqflzgyFWI&line=3&uniqifier=1)\
 ✅-[Вызов функции](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=_2N4qD3N8Sau)\
 ✅-[Принципы ООП](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=-Dvg4ypz1--G)\
 ✅-[5 методов](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=muBgXqh1AUyW)\
