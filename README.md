@@ -1,6 +1,5 @@
 ## Работы по Python
 ✅-[Условия на примере цены товара](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=swZlQ81RbHae)\
-✅-[Задание и блок схема](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=t0hFJBIadi4J&line=5&uniqifier=1)\
 ✅-[Код](https://colab.research.google.com/drive/1uqpqlprW7KQAVzt6NJp1fU5v_ZwTZ1U1#scrollTo=Crh1W0r9mcPR&line=2&uniqifier=1)\
 ✅-[Проверочная работа1](https://www.yaklass.ru/TestWork/Results/22963632?from=%2F)\
 ✅-[Проверочная работа2](https://www.yaklass.ru/TestWork/Results/23002086?from=%2F)\
