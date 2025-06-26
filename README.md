@@ -22,5 +22,5 @@
 [ДЗ Баш](https://docs.google.com/document/d/1FFgD58qbblQe0_zAGYb7kA87gxTQLl94uLK6y04wXsM/edit?usp=sharing)\
 [Графики по GNUplot](https://docs.google.com/document/d/1iw6rP5vOccdmkQ3P-dBVNL5UW1Zfp-rdrTSU16398XA/edit?usp=sharing)
 ## Сертификаты
-[Сертификаты](https://drive.google.com/drive/folders/1MsF_cBy_ZiQoyA7MOsoxOJ6beGioIj4X?usp=sharing)
+[Сертификаты](https://drive.google.com/drive/folders/1MsF_cBy_ZiQoyA7MOsoxOJ6beGioIj4X?usp=sharing)\
 https://docs.google.com/document/d/1BrUKGzO_9ju9fJGJVqakogxaq7-0bXWFG_nPnzpZwCo/edit?usp=drive_link
